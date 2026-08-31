@@ -1,7 +1,7 @@
 version: 2026.232.0520
 nano-pdf:
     candy:
-        version: 2026.144.1443
+        version: 2026.243.0100
         description: |
             A natural-language PDF editing CLI installed as a pixi-managed console script.
             The nano-pdf candy ships a pixi.toml that installs the nano-pdf PyPI
@@ -11,7 +11,7 @@ nano-pdf:
             importable, so it is verifiable by the script's existence, the installed
             distribution version it reports, and the CLI's own --help usage banner.
         require:
-            - '@github.com/opencharly/layer-python:v2026.235.2057'
+            - '@github.com/opencharly/layer-python:v2026.243.0409'
         plan:
             - check: the nano-pdf console script exists in the default pixi environment
               file:
