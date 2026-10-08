@@ -46,7 +46,6 @@ my-box:
 - Owning skill: `/charly-tools:nano-pdf` — the PDF editing CLI and its pixi
   install path.
 - `/charly-languages:python` — required Python runtime dependency.
-- `/charly-openclaw:openclaw-full` — metalayer that includes nano-pdf.
 - `/charly-image:layer` — candy authoring reference.
 - [`opencharly/charly`](https://github.com/opencharly/charly) — the charly CLI and image builder
 - [`opencharly/opencharly`](https://github.com/opencharly/opencharly) — the umbrella
